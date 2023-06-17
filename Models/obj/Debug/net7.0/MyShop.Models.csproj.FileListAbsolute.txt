@@ -1,0 +1,12 @@
+E:\Development\Projects\MyShop\Models\bin\Debug\net7.0\MyShop.Models.deps.json
+E:\Development\Projects\MyShop\Models\bin\Debug\net7.0\MyShop.Models.dll
+E:\Development\Projects\MyShop\Models\bin\Debug\net7.0\MyShop.Models.pdb
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.csproj.AssemblyReference.cache
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.AssemblyInfoInputs.cache
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.AssemblyInfo.cs
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.csproj.CoreCompileInputs.cache
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.dll
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\refint\MyShop.Models.dll
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\MyShop.Models.pdb
+E:\Development\Projects\MyShop\Models\obj\Debug\net7.0\ref\MyShop.Models.dll

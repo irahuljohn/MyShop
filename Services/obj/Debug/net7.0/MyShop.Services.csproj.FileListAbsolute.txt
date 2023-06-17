@@ -1,0 +1,17 @@
+E:\Development\Projects\MyShop\Services\bin\Debug\net7.0\MyShop.Services.deps.json
+E:\Development\Projects\MyShop\Services\bin\Debug\net7.0\MyShop.Services.dll
+E:\Development\Projects\MyShop\Services\bin\Debug\net7.0\MyShop.Services.pdb
+E:\Development\Projects\MyShop\Services\bin\Debug\net7.0\MyShop.Models.dll
+E:\Development\Projects\MyShop\Services\bin\Debug\net7.0\MyShop.Models.pdb
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.csproj.AssemblyReference.cache
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.AssemblyInfoInputs.cache
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.AssemblyInfo.cs
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.csproj.CoreCompileInputs.cache
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.csproj.CopyComplete
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.dll
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\refint\MyShop.Services.dll
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.pdb
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\ref\MyShop.Services.dll
+E:\Development\Projects\MyShop\Services\bin\Debug\net7.0\MyShop.Services.runtimeconfig.json
+E:\Development\Projects\MyShop\Services\obj\Debug\net7.0\MyShop.Services.genruntimeconfig.cache

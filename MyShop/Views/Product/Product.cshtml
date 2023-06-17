@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+<div class="d-sm-flex align-items-center justify-content-between mb-3 mt-3">
+    <h1 class="h3 mb-0 text-gray-800">Category</h1>
+    <div class="p-2 flex-filltext-right">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Add</button>
+    </div>
+</div>
+
+<table id="Tblproduct" width="100%" class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Created Date</th>
+        </tr>
+    </thead>
+</table>
+
+<!--Add Category Model-->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Add or Update Category</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Product Name:</label>
+                        <input type="text" class="form-control" id="txtProductName" placeholder="Enter Product name">
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Description:</label>
+                        <textarea class="form-control" id="txtDescrip"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Category:</label>
+                        <select id="ddlCategoryName" name="ddlCategoryName" class="form-control"></select>
+                    </div>
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Product Price:</label>
+                        <input type="number" class="form-control" id="txtProductPrice" placeholder="Enter Product name">
+                    </div>  
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Product Quantity:</label>
+                        <input type="number" class="form-control" id="txtQuantity" placeholder="Enter Product Quantity">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btnClose" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" id="btnsubmit" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Script/AdminCustom/Product.js"></script>
+    }
+
